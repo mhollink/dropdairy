@@ -16,9 +16,9 @@
     "typecheck": "pnpm -r --if-present typecheck",
     "test": "pnpm -r --if-present test",
     "verify": "pnpm check && pnpm typecheck && pnpm test",
-    "data:scrape": "pnpm --filter @dropdairy/data scrape",
-    "data:generate": "pnpm --filter @dropdairy/data generate",
-    "data:update": "pnpm --filter @dropdairy/data update",
+    "data:scrape": "pnpm --filter @dropdairy/data run scrape",
+    "data:generate": "pnpm --filter @dropdairy/data run generate",
+    "data:update": "pnpm --filter @dropdairy/data run update",
     "changelog": "git-cliff -o CHANGELOG.md",
     "changelog:unreleased": "git-cliff --unreleased",
     "prepare": "simple-git-hooks"

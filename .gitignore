@@ -20,6 +20,7 @@ coverage/
 .idea/
 .vscode/
 *.swp
+*.patch
 
 # OS
 .DS_Store

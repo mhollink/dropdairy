@@ -1,0 +1,957 @@
+[
+  {
+    "id": "microdrink-appel",
+    "name": "APPEL",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "inuline",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "natuurlijk aroma",
+      "voedingszuur: appelzuur",
+      "appelvruchtpoeder",
+      "zoetstof: sucralose",
+      "kleurstof: sulfiet-ammoniakkaramel",
+      "zuurteregelaar: calciumcarbonaat",
+      "vitamine C",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-appel"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-braam",
+    "name": "BRAAM",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-braam"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-cassis",
+    "name": "CASSIS",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "açai-extract",
+      "zwartebessenbladextract",
+      "zwartebessenvruchtpoeder",
+      "natuurlijk aroma",
+      "vlierbessenvruchtpoeder",
+      "zuurteregelaar: magnesiumcarbonaten",
+      "zoetstof: steviolglycosiden uit stevia",
+      "zuurteregelaar: calciumcarbonaat",
+      "vitamine C",
+      "kleurstof: anthocyanen",
+      "vitamine B6",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-cassis"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-citroen",
+    "name": "CITROEN",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk citroenaroma met andere natuurlijke aroma's",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "voedingszuur: appelzuur",
+      "zoetstof: sucralose",
+      "vitamine C",
+      "zuurteregelaar: calciumcarbonaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "foliumzuur",
+      "kleurstof: carotenen",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-citroen"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-citroen-limoen",
+    "name": "CITROEN LIMOEN",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk aroma",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "citroenbladextract",
+      "acerolapoeder",
+      "zoetstof: sucralose",
+      "zuurteregelaar: calciumcarbonaat",
+      "vitamine C",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "foliumzuur",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-citroen-limoen"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-ricola-drink-cubes-lemon-mint",
+    "name": "CITROEN MUNT",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur (citroenzuur)",
+      "zuurteregelaars (natriumcarbonaten, kaliumcarbonaten)",
+      "natuurlijke aroma's",
+      "gedroogd kruidenextract (5,4%) (munt, duizendblad, kamille, citroenmelisse, vrouwenmantel, tijm, salie, vlierbloesem)",
+      "gedroogd citroenbladextract (4,9%)",
+      "acerolapoeder (3,5%)",
+      "zoetstof (steviolglycosiden uit stevia)",
+      "citroenvruchtpoeder (2,3%)",
+      "pepermuntoliën",
+      "vitamine B3",
+      "vitamine B12",
+      "kleurstof (curcumine)."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ricola-drink-cubes-lemon-mint"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-cola",
+    "name": "COLA",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "zuurteregelaar: natriumcarbonaten",
+      "kleurstof: sulfiet-ammoniakkaramel",
+      "zuurteregelaar: kaliumcarbonaten",
+      "zoetstof: sucralose",
+      "natuurlijk aroma",
+      "vitamine C",
+      "kolanootextract",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-cola"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-framboos",
+    "name": "FRAMBOOS",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "frambozenvruchtpoeder",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "inuline",
+      "vlierbloesempoeder",
+      "lindebloesemextract",
+      "zuurteregelaar: magnesiumcarbonaten",
+      "natuurlijk aroma",
+      "vitamine C",
+      "zuurteregelaar: calciumcarbonaat",
+      "zoetstof: steviolglycosiden uit stevia",
+      "kleurstof: anthocyanen",
+      "vitamine E",
+      "biotine"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-framboos"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-ricola-drink-cubes-raspberry-melissa",
+    "name": "FRAMBOOS MELISSE",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur (citroenzuur)",
+      "zuurteregelaars (natriumcarbonaten, kaliumcarbonaten)",
+      "natuurlijke aroma's",
+      "frambozenvruchtpoeder (6,8%)",
+      "gedroogd kruidenextract (4,3%) (munt, duizendblad, kamille, melisse, vrouwenmantel, tijm, salie, vlierbloesem)",
+      "acerolapoeder (3,6%)",
+      "zoetstof (steviolglycosiden uit stevia)",
+      "pepermuntoliën",
+      "melisse-olie",
+      "kamille-olie",
+      "vitamine B6",
+      "vitamine B12",
+      "kleurstof (anthocyanen)."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ricola-drink-cubes-raspberry-melissa"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-ricola-drink-cubes-pomegranate-mint",
+    "name": "GRANAATAPPEL MUNT",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur (citroenzuur)",
+      "zuurteregelaars (natriumcarbonaten, kaliumcarbonaten)",
+      "natuurlijke aroma's",
+      "granaatappelvruchtpoeder (4,9%)",
+      "gedroogd kruidenextract (4,5%) (munt, duizendblad, kamille, citroenmelisse, vrouwenmantel, tijm, salie, vlierbloesem)",
+      "acerolapoeder (3,6%)",
+      "zoetstof (steviolglycosiden uit stevia)",
+      "pepermuntoliën",
+      "melisse-olie",
+      "kamille-olie",
+      "vitamine B6",
+      "vitamine B12",
+      "kleurstof (anthocyaninen)."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ricola-drink-cubes-pomegranate-mint"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-grapefruit",
+    "name": "GRAPEFRUIT",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk grapefruitaroma",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "voedingszuur: appelzuur",
+      "zoetstof: sucralose",
+      "kleurconcentraat uit rode biet",
+      "vitamine C",
+      "zuurteregelaar: calciumcarbonaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "foliumzuur",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-grapefruit"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-passievrucht",
+    "name": "PASSIEVRUCHT",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk aroma",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "acerolapoeder",
+      "voedingszuur: appelzuur",
+      "zoetstof: steviolglycosiden uit stevia",
+      "cactusvijgextract",
+      "zuurteregelaar: calciumcarbonaat",
+      "passievruchtpoeder",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "foliumzuur",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-passievrucht"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-sinaasappel",
+    "name": "SINAASAPPEL",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk sinaasappelaroma met andere natuurlijke aroma's",
+      "sinaasappelvruchtpoeder",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "voedingszuur: appelzuur",
+      "zoetstof: sucralose",
+      "vitamine C",
+      "zuurteregelaar: calciumcarbonaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "foliumzuur",
+      "vitamine B12"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microdrink-sinaasappel"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-ricola-drink-cubes-verbena-citrus",
+    "name": "VERBENA CITRUS",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur (citroenzuur)",
+      "zuurteregelaars (natriumcarbonaten, kaliumcarbonaten)",
+      "citroenvruchtpoeder (4,5%)",
+      "gedroogd kruidenextract (4,5%) (munt, duizendblad, kamille, melisse, vrouwenmantel, tijm, salie, vlierbloesem)",
+      "natuurlijke aroma's",
+      "gedroogd extract van citroenverveine (4%)",
+      "acerolapoeder (3,5%)",
+      "zoetstof (steviolglycosiden uit stevia)",
+      "grapefruitpoeder (0,7%)",
+      "pepermuntolie",
+      "melisse-olie",
+      "kamille-olie",
+      "vitamine B1",
+      "vitamine B9."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ricola-drink-cubes-verbena-citrus"
+      }
+    ]
+  },
+  {
+    "id": "microdrink-ricola-drink-cubes-taster-pack",
+    "name": "waterdrop® x Ricola-Proefpakket",
+    "aliases": [],
+    "category": "microdrink",
+    "flavourNotes": [],
+    "ingredients": [],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ricola-drink-cubes-taster-pack"
+      }
+    ]
+  },
+  {
+    "id": "microenergy-berry-boost",
+    "name": "BERRY BOOST",
+    "aliases": [],
+    "category": "microenergy",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "natuurlijk aroma",
+      "kolanootextract",
+      "cafeïne",
+      "braamvruchtpoeder",
+      "zoetstof: sucralose",
+      "vitamine C",
+      "voedingszuur: appelzuur",
+      "zuurteregelaar: calciumcarbonaat",
+      "kleurstof: anthocyanen",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "foliumzuur",
+      "vitamine B12 Vitamine C",
+      "vitamine B12",
+      "pantotheenzuur Hoog cafeïnegehalte. Niet aanbevolen voor kinderen en vrouwen die zwanger zijn of borstvoeding geven (18 mg/100 ml). Aanbevolen inname: maximaal 2 tot 3 blokjes per dag. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot een normaal energieleverend metabolisme en tot de vermindering van vermoeidheid en moeheid. Pantotheenzuur draagt bij tot normale mentale prestaties. Cafeïne helpt de concentratie te verbeteren. Een gevarieerde en evenwichtige voeding en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microenergy-berry-boost"
+      }
+    ]
+  },
+  {
+    "id": "microenergy-blue-vanilla",
+    "name": "BLUE VANILLA BOOST",
+    "aliases": [],
+    "category": "microenergy",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk aroma",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "cafeïne",
+      "voedingszuur: appelzuur",
+      "zoetstof: sucralose",
+      "blauwebessenextract",
+      "vitamine C",
+      "kleurconcentraat uit spirulina",
+      "bourbonvanille-extract",
+      "zuurteregelaar: calciumcarbonaat",
+      "kleurstof: anthocyanen",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "vitamine B12 Hoog cafeïnegehalte. Niet aanbevolen voor kinderen en vrouwen die zwanger zijn of borstvoeding geven (18 mg/100 ml). Aanbevolen inname: maximaal 2 tot 3 blokjes per dag. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot een normaal energieleverend metabolisme en tot de vermindering van vermoeidheid en moeheid. Pantotheenzuur draagt bij tot normale mentale prestaties. Cafeïne helpt de concentratie te verbeteren. Een gevarieerde en evenwichtige voeding en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "limited",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microenergy-blue-vanilla"
+      }
+    ]
+  },
+  {
+    "id": "microenergy-cherry-boost",
+    "name": "CHERRY BOOST",
+    "aliases": [],
+    "category": "microenergy",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "kleurconcentraat van rode biet",
+      "cafeïne",
+      "guarana-extract",
+      "natuurlijk aroma",
+      "zoetstof: sucralose",
+      "vitamine C",
+      "voedingszuur: appelzuur",
+      "zure-kersenpoeder",
+      "zuurteregelaar: calciumcarbonaat",
+      "ginsengextract",
+      "malve-extract",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "foliumzuur",
+      "vitamine B12 Vitamine C",
+      "vitamine B12",
+      "pantotheenzuur Hoog cafeïnegehalte. Niet aanbevolen voor kinderen en vrouwen die zwanger zijn of borstvoeding geven (18 mg/100 ml). Aanbevolen inname: maximaal 2 tot 3 blokjes per dag. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot een normaal energieleverend metabolisme en tot de vermindering van vermoeidheid en moeheid. Pantotheenzuur draagt bij tot normale mentale prestaties. Cafeïne helpt de concentratie te verbeteren. Een gevarieerde en evenwichtige voeding en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microenergy-cherry-boost"
+      }
+    ]
+  },
+  {
+    "id": "microenergy-mango-boost",
+    "name": "MANGO BOOST",
+    "aliases": [],
+    "category": "microenergy",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "mangovruchtpoeder",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "extracten van gedroogde bladeren van Ilex guayusa",
+      "cafeïne",
+      "zoetstof: sucralose",
+      "vitamine C",
+      "voedingszuur: appelzuur",
+      "citrusvezels",
+      "natuurlijk aroma",
+      "zuurteregelaar: calciumcarbonaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "foliumzuur",
+      "vitamine B12Vitamine C",
+      "vitamine B12",
+      "pantotheenzuur Hoog cafeïnegehalte. Niet aanbevolen voor kinderen en vrouwen die zwanger zijn of borstvoeding geven (18 mg/100 ml). Aanbevolen inname: maximaal 2 tot 3 blokjes per dag. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot een normaal energieleverend metabolisme en tot de vermindering van vermoeidheid en moeheid. Pantotheenzuur draagt bij tot normale mentale prestaties. Cafeïne helpt de concentratie te verbeteren. Een gevarieerde en evenwichtige voeding en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microenergy-mango-boost"
+      }
+    ]
+  },
+  {
+    "id": "microlyte-berry",
+    "name": "BERRY RECHARGE",
+    "aliases": [],
+    "category": "microlyte",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "kaliumchloride",
+      "zuurteregelaar: calciumfosfaten",
+      "magnesiumcarbonaat",
+      "natriumcarbonaat",
+      "natuurlijk aroma",
+      "vitamine C",
+      "calciumcarbonaat",
+      "zoetstof: steviolglycosiden uit stevia",
+      "zinkgluconaat",
+      "niacine",
+      "vitamine E",
+      "pantotheenzuur",
+      "kleurstof: anthocyanen",
+      "vitamine B6",
+      "thiamine",
+      "vitamine A",
+      "biotine",
+      "vitamine B12 Magnesium draagt bij tot een elektrolytenbalans. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot de vermindering van vermoeidheid en moeheid. Calcium en magnesium dragen bij tot een normale werking van de spieren. Calcium is nodig voor de instandhouding van normale botten. Vitamine C",
+      "calcium en magnesium dragen bij tot een normaal energieleverend metabolisme. Chloride draagt bij tot de normale spijsvertering door de productie van zoutzuur in de maag. Water draagt bij tot de instandhouding van de normale regeling van de lichaamstemperatuur. Drink ten minste 2",
+      "0 L water",
+      "uit alle bronnen",
+      "per dag om het geclaimde effect te verkrijgen. Een gevarieerd en evenwichtig voedingspatroon en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microlyte-berry"
+      }
+    ]
+  },
+  {
+    "id": "microlyte-grapefruit-recharge",
+    "name": "GRAPEFRUIT RECHARGE",
+    "aliases": [],
+    "category": "microlyte",
+    "flavourNotes": [],
+    "ingredients": [],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microlyte-grapefruit-recharge"
+      }
+    ]
+  },
+  {
+    "id": "microlyte-lemon-mint-recharge",
+    "name": "LEMON-MINT RECHARGE",
+    "aliases": [],
+    "category": "microlyte",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "magnesiumcarbonaat",
+      "natriumchloride",
+      "calciumcarbonaat",
+      "zuurteregelaar: calciumfosfaten",
+      "natuurlijk citroenaroma met andere natuurlijke aroma's",
+      "natriumcarbonaat",
+      "vitamine C",
+      "zoetstof: sucralose",
+      "zincgluconaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "vitamine B12 Magnesium draagt bij tot een elektrolytenbalans. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot de vermindering van vermoeidheid en moeheid. Calcium en magnesium dragen bij tot een normale werking van de spieren. Calcium is nodig voor de instandhouding van normale botten. Vitamine C",
+      "calcium en magnesium dragen bij tot een normaal energieleverend metabolisme. Chloride draagt bij tot de normale spijsvertering door de productie van zoutzuur in de maag. Water draagt bij tot de instandhouding van de normale regeling van de lichaamstemperatuur. Drink ten minste 2",
+      "0 L water",
+      "uit alle bronnen",
+      "per dag om het geclaimde effect te verkrijgen. Een gevarieerd en evenwichtig voedingspatroon en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microlyte-lemon-mint-recharge"
+      }
+    ]
+  },
+  {
+    "id": "microlyte-orange-recharge",
+    "name": "ORANGE RECHARGE",
+    "aliases": [],
+    "category": "microlyte",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "magnesiumcarbonaat",
+      "natriumchloride",
+      "calciumcarbonaat",
+      "zuurteregelaar: calciumfosfaten",
+      "natuurlijk sinaasappelaroma met andere natuurlijke aroma's",
+      "natriumcarbonaat",
+      "vitamine C",
+      "zoetstof: sucralose",
+      "zincgluconaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstof: carotenen",
+      "vitamine B12 Magnesium draagt bij tot een elektrolytenbalans. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot de vermindering van vermoeidheid en moeheid. Calcium en magnesium dragen bij tot een normale werking van de spieren. Calcium is nodig voor de instandhouding van normale botten. Vitamine C",
+      "calcium en magnesium dragen bij tot een normaal energieleverend metabolisme. Chloride draagt bij tot de normale spijsvertering door de productie van zoutzuur in de maag. Water draagt bij tot de instandhouding van de normale regeling van de lichaamstemperatuur. Drink ten minste 2",
+      "0 L water",
+      "uit alle bronnen",
+      "per dag om het geclaimde effect te verkrijgen. Een gevarieerd en evenwichtig voedingspatroon en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microlyte-orange-recharge"
+      }
+    ]
+  },
+  {
+    "id": "microlyte-strawberry-recharge",
+    "name": "STRAWBERRY RECHARGE",
+    "aliases": [],
+    "category": "microlyte",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "magnesiumcarbonaat",
+      "natriumchloride",
+      "calciumcarbonaat",
+      "zuurteregelaar: calciumfosfaten",
+      "natuurlijk aroma",
+      "natriumcarbonaat",
+      "vitamine C",
+      "zoetstof: sucralose",
+      "zincgluconaat",
+      "niacine",
+      "pantotheenzuur",
+      "vitamine B6",
+      "thiamine",
+      "kleurstoffen: carotenen",
+      "anthocyanen",
+      "vitamine B12 Magnesium draagt bij tot een elektrolytenbalans. Vitamine C",
+      "B6",
+      "B12",
+      "niacine en pantotheenzuur dragen bij tot de vermindering van vermoeidheid en moeheid. Calcium en magnesium dragen bij tot een normale werking van de spieren. Calcium is nodig voor de instandhouding van normale botten. Vitamine C",
+      "calcium en magnesium dragen bij tot een normaal energieleverend metabolisme. Chloride draagt bij tot de normale spijsvertering door de productie van zoutzuur in de maag. Water draagt bij tot de instandhouding van de normale regeling van de lichaamstemperatuur. Drink ten minste 2",
+      "0 L water",
+      "uit alle bronnen",
+      "per dag om het geclaimde effect te verkrijgen. Een gevarieerd en evenwichtig voedingspatroon en een gezonde levensstijl zijn belangrijk."
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/microlyte-strawberry-recharge"
+      }
+    ]
+  },
+  {
+    "id": "microtea-ice-tea-citroen",
+    "name": "ICE TEA CITROEN",
+    "aliases": [],
+    "category": "microtea",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "groenethee-extract (10%)",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "natuurlijk citroenaroma",
+      "voedingszuur: appelzuur",
+      "zuurteregelaar: calciumcarbonaat",
+      "natuurlijk aroma",
+      "zoetstof: sucralose",
+      "vitamine C",
+      "niacine"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ice-tea-citroen"
+      }
+    ]
+  },
+  {
+    "id": "microtea-ice-tea-framboos",
+    "name": "ICE TEA FRAMBOOS",
+    "aliases": [],
+    "category": "microtea",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "natuurlijk aroma",
+      "zuurteregelaar: natriumcarbonaten",
+      "zwartethee-extract (7%)",
+      "zuurteregelaar: kaliumcarbonaten",
+      "voedingszuur: appelzuur",
+      "zuurteregelaar: calciumcarbonaat",
+      "zoetstof: sucralose",
+      "frambozenvruchtpoeder",
+      "citrusvezels",
+      "vitamine C",
+      "kleurstof: anthocyanen",
+      "niacine"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ice-tea-framboos"
+      }
+    ]
+  },
+  {
+    "id": "microtea-ice-tea-peach",
+    "name": "ICE TEA PERZIK",
+    "aliases": [],
+    "category": "microtea",
+    "flavourNotes": [],
+    "ingredients": [
+      "voedingszuur: citroenzuur",
+      "zwartethee-extract (7%)",
+      "zuurteregelaars: natriumcarbonaten",
+      "kaliumcarbonaten",
+      "mango-extract",
+      "inuline",
+      "voedingszuur: appelzuur",
+      "zuurteregelaar: calciumcarbonaat",
+      "natuurlijk aroma",
+      "zoetstof: sucralose",
+      "perzikvruchtpoeder",
+      "citrusvezels",
+      "vitamine C",
+      "niacine"
+    ],
+    "edition": "regular",
+    "lifecycle": "active",
+    "firstSeen": "2026-09-19",
+    "lastSeen": "2026-09-19",
+    "sources": [
+      {
+        "type": "official",
+        "name": "waterdrop.nl",
+        "url": "https://www.waterdrop.nl/products/ice-tea-peach"
+      }
+    ]
+  }
+]
