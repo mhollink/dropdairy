@@ -1,0 +1,19 @@
+{
+  "name": "@dropdairy/data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "tsx src/cli.ts scrape",
+    "normalize": "tsx src/cli.ts normalize",
+    "validate": "tsx src/cli.ts validate",
+    "generate": "tsx src/cli.ts generate",
+    "update": "tsx src/cli.ts update",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "zod": "^4.6.5"
+  }
+}

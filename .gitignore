@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+**/node_modules/
+
+# Expo
+.expo/
+**/.expo/
+dist/
+web-build/
+
+# tests
+coverage/
+
+# environment
+.env
+.env.*
+!.env.example
+
+# editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# generated native directories
+apps/mobile/android/
+apps/mobile/ios/
